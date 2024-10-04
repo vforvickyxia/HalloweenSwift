@@ -29,9 +29,22 @@
 		B4C0C93E2CAF63B2000C3989 /* SwiftyHalloweenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyHalloweenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B4C0C9522CAF6637000C3989 /* Exceptions for "SwiftyHalloween" folder in "SwiftyHalloween" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B4C0C9232CAF63B0000C3989 /* SwiftyHalloween */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B4C0C9262CAF63B0000C3989 /* SwiftyHalloween */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B4C0C9522CAF6637000C3989 /* Exceptions for "SwiftyHalloween" folder in "SwiftyHalloween" target */,
+			);
 			path = SwiftyHalloween;
 			sourceTree = "<group>";
 		};
