@@ -42,5 +42,3 @@ The interface of the app should look as displayed above. Specifically:
 17. [2 pts.] Make sure that when the button is clicked, the message is never the same as the message that had been displayed the last time the button was clicked.
 18. [4 pts.] Fade in the Image and Text using a default animation.
 
-![image](https://github.com/user-attachments/assets/2504ad57-da01-41ac-ba9a-8d51a468ca66)
-
